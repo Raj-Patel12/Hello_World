@@ -5,4 +5,4 @@ My name is Raj Patel and I am a senior at the University of Iowa studying Busine
 ## 2. Description 
 ### 3. How to Run Program 
 #### 4. Files Used 
-##### 5. Misc.
+##### 5. *Misc.*
